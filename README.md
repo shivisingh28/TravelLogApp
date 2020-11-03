@@ -1,14 +1,14 @@
 # Log Entry
 
-Title-text
+*Title-text
 
-Comments-text
+*Comments-text
 
-Description-text
- Rating - scale of 1-10
- Start Date -datetime
+*Description-text
+* Rating - scale of 1-10
+*Start Date -datetime
 
- Image - text
+ *Image - text
 
 # End Date- date time
 * Created At - datetime
